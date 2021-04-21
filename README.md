@@ -1,2 +1,2 @@
 # DataLayer
- Application for psychomotor a learning task
+ Application for practicing a psychomotor learning task(basketball-jumpshot)
