@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataLayer.iml" filepath="$PROJECT_DIR$/DataLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psycholearningphone/psycholearningphone.iml" filepath="$PROJECT_DIR$/psycholearningphone/psycholearningphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psycholearningwear/psycholearningwear.iml" filepath="$PROJECT_DIR$/psycholearningwear/psycholearningwear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
+    </modules>
+  </component>
+</project>
